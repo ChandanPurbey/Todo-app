@@ -1,6 +1,6 @@
 # Todo-app
-App url:
+App url: Discontinued
 https://todo-ckp.herokuapp.com/
 
-This app has been created following "CodewithHarry" Tutorial
+
 
